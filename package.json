@@ -1,0 +1,18 @@
+{
+  "name": "nestjs-lesson",
+  "version": "1.0.0",
+  "description": "GB_NestJS_Lesson",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsh-gb/NestJS_Lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsh-gb/NestJS_Lesson/issues"
+  },
+  "homepage": "https://github.com/dsh-gb/NestJS_Lesson#readme"
+}
